@@ -1,2 +1,2 @@
-# pf2-babele-es
-pf2-babele-es
+# pf2e-babele-es
+pf2e-babele-es

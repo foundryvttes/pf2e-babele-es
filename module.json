@@ -1,6 +1,6 @@
 {
   "name": "pf2e-babele-es",
-  "title": "PF2 Babele Spanish",
+  "title": "PF2e Babele Spanish",
   "description": "Traducción de la implementación de Pathfinder 2 al español mediante babele",
   "version": "3.84.1",
   "minimumCoreVersion" : "9.266",
@@ -36,7 +36,7 @@
   ],
   "system": "pf2e",
   "systemVersion": "1.14.0",
-  "url": "https://github.com/foundryvttes/pf2-babele-es",
-  "manifest": "https://raw.githubusercontent.com/foundryvttes/pf2-babele-es/main/module.json",
-  "download": "https://github.com/foundryvttes/pf2-babele-es/archive/main.zip"
+  "url": "https://github.com/foundryvttes/pf2e-babele-es",
+  "manifest": "https://raw.githubusercontent.com/foundryvttes/pf2e-babele-es/main/module.json",
+  "download": "https://github.com/foundryvttes/pf2e-babele-es/archive/main.zip"
 }
