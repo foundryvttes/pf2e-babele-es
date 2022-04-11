@@ -8,7 +8,7 @@ Hooks.once('init', () => {
 			dir: 'compendium'
 		});
 		
-		document.getElementById("logo").src="/modules/rqg-babele-es/images/fvtt-pf2e-es.webp";
+		document.getElementById("logo").src="/modules/pf2e-babele-es/images/fvtt-pf2e-es.webp";
 		
 	}
 	
