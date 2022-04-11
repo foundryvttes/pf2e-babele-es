@@ -2,7 +2,7 @@
   "name": "pf2e-lang-es",
   "title": "PF2e Spanish",
   "description": "Traducción de la implementación de Pathfinder 2 al español",
-  "version": "3.84.2",
+  "version": "3.84.3",
   "minimumCoreVersion" : "9.266",
   "compatibleCoreVersion":"9.266",
   "author": "@Alejabar#2879",
